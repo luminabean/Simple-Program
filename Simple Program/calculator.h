@@ -23,4 +23,13 @@ public:
 	void volume();
 };
 
+class Rectangle {
+private:
+	int a, b;
+public:
+	void setLength(int a);
+	void setLength(int a, int b);
+	void area();
+};
+
 #endif

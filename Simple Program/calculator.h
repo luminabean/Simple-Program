@@ -30,6 +30,7 @@ public:
 	void setLength(int a);
 	void setLength(int a, int b);
 	void area();
+	void perimeter();
 };
 
 #endif

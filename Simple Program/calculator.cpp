@@ -42,3 +42,6 @@ void Rectangle::setLength(int width, int height) {
 void Rectangle::area() {
 	cout << "가로가 " << a << ", 세로가 " << b << "인 사각형의 넓이는 " << a * b << endl;
 }
+void Rectangle::perimeter() {
+	cout << "가로가 " << a << ", 세로가 " << b << "인 사각형의 둘레는 " << 2 * a * b << end
+}

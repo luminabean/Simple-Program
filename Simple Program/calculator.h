@@ -25,7 +25,7 @@ public:
 
 class Rectangle {
 private:
-	int a, b;
+	int l, r;
 public:
 	void setLength(int a);
 	void setLength(int a, int b);

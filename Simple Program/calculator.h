@@ -25,7 +25,7 @@ public:
 
 class Rectangle {
 private:
-	int len, hei;
+	int garo, sero;
 public:
 	void setLength(int a);
 	void setLength(int a, int b);
